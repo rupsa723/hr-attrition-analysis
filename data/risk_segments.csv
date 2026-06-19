@@ -1,0 +1,197 @@
+Employee_Name,EngagementScore,SatisfactionScore,CompaRatioScore,FlightRiskScore,VacancyLoss,EstimatedReplacementCost,median_risk,median_cost,RiskQuadrant
+"Desimone, Carl",97.0,75.0,0.0,71.0,5128.77,5188.77,28.44,6880.09,High Flight Risk
+"Ngodup, Shari",97.0,50.0,22.0,67.9,3846.58,4204.47,28.44,6880.09,High Flight Risk
+"Mangal, Debbie",99.0,50.0,0.0,64.5,5898.08,6579.9,28.44,6880.09,High Flight Risk
+"Dietrich, Jenna",67.5,100.0,0.0,63.75,14104.11,14699.53,28.44,6880.09,Critical Risk
+"Blount, Dianna",96.0,50.0,0.0,63.0,6923.84,7163.84,28.44,6880.09,Critical Risk
+"Merlos, Carlos",95.0,50.0,0.0,62.5,11026.85,11026.85,28.44,6880.09,Critical Risk
+Jeremy Prater,79.75,75.0,0.0,62.38,14360.55,14955.97,28.44,6880.09,Critical Risk
+"Stanford,Barbara  M",98.75,25.0,27.2,62.32,3590.14,3590.14,28.44,6880.09,High Flight Risk
+"Stoica, Rick",90.25,50.0,0.0,60.13,5641.64,6323.46,28.44,6880.09,High Flight Risk
+"Brown, Mia",74.0,75.0,0.0,59.5,7308.49,7666.38,28.44,6880.09,Critical Risk
+"Becker, Scott",97.75,25.0,11.6,58.7,4359.45,5005.33,28.44,6880.09,High Flight Risk
+"Johnston, Yen",87.25,50.0,0.0,58.63,6410.96,6470.96,28.44,6880.09,High Flight Risk
+"Fraval, Maruk",84.0,50.0,0.0,57.0,14104.11,14344.11,28.44,6880.09,Critical Risk
+"Warfield, Sarah",98.5,25.0,0.0,56.75,14155.4,14155.4,28.44,6880.09,Critical Risk
+"Dickinson, Geoff",96.75,25.0,0.0,55.88,5385.21,5552.35,28.44,6880.09,High Flight Risk
+"Saada, Adell",81.5,50.0,0.0,55.75,12629.59,12796.73,28.44,6880.09,Critical Risk
+"Barone, Francesco  A",89.75,25.0,12.84,54.94,4297.91,4804.55,28.44,6880.09,High Flight Risk
+"Galia, Lisa",94.75,25.0,0.0,54.88,8052.16,8052.16,28.44,6880.09,Critical Risk
+"Houlihan, Debra",94.5,25.0,0.0,54.75,15386.3,16032.18,28.44,6880.09,Critical Risk
+"Westinghouse, Matthew",79.5,50.0,0.0,54.75,11539.73,12538.42,28.44,6880.09,Critical Risk
+"Harrell, Ludwick",79.25,50.0,0.0,54.63,5385.21,5592.53,28.44,6880.09,High Flight Risk
+"Mullaney, Howard",76.75,50.0,0.0,53.38,14104.11,14104.11,28.44,6880.09,Critical Risk
+"Motlagh,  Dawn",81.0,25.0,22.0,52.4,3846.58,4492.46,28.44,6880.09,High Flight Risk
+"Good, Susan",74.0,50.0,0.0,52.0,6218.63,6278.63,28.44,6880.09,High Flight Risk
+"England, Rex",73.75,50.0,0.0,51.88,5385.21,5385.21,28.44,6880.09,High Flight Risk
+"Sahoo, Adil",73.0,50.0,0.0,51.5,7436.71,7676.71,28.44,6880.09,Critical Risk
+"Zima, Colleen",94.0,0.0,22.0,51.4,3846.58,4528.4,28.44,6880.09,High Flight Risk
+"Gonzalez, Cayo",79.25,25.0,16.8,50.49,4103.01,4460.9,28.44,6880.09,High Flight Risk
+"Punjabhi, Louis",63.75,50.0,16.8,50.24,4103.01,4103.01,28.44,6880.09,High Flight Risk
+"Smith, John",84.5,25.0,0.0,49.75,14360.55,14718.44,28.44,6880.09,Critical Risk
+"Lunquist, Lisa",84.0,25.0,0.0,49.5,6693.04,6693.04,28.44,6880.09,High Flight Risk
+"Gaul, Barbara",83.5,25.0,0.0,49.25,6154.52,6800.4,28.44,6880.09,High Flight Risk
+"Jackson, Maryellen",67.0,50.0,0.0,48.5,5128.77,5646.96,28.44,6880.09,High Flight Risk
+"Zamora, Jennifer",97.0,0.0,0.0,48.5,16668.49,16668.49,28.44,6880.09,Critical Risk
+"Smith, Joe",64.75,50.0,4.68,48.31,5641.64,5808.78,28.44,6880.09,High Flight Risk
+"Knapp, Bradley  J",55.25,50.0,27.2,48.07,3590.14,4271.96,28.44,6880.09,High Flight Risk
+"Cockel, James",87.25,0.0,22.0,48.03,3846.58,3846.58,28.44,6880.09,High Flight Risk
+"Villanueva, Noah",80.75,25.0,0.0,47.88,14360.55,14955.97,28.44,6880.09,Critical Risk
+"Monroe, Peter",65.25,50.0,0.0,47.63,16155.62,16513.51,28.44,6880.09,Critical Risk
+"Biden, Lowan  M",65.25,50.0,0.0,47.63,5641.64,6028.64,28.44,6880.09,High Flight Risk
+"Ferreira, Violeta",78.75,25.0,0.0,46.88,5898.08,6416.27,28.44,6880.09,High Flight Risk
+"Peterson, Kayla",57.0,50.0,11.6,45.82,4359.45,4566.77,28.44,6880.09,High Flight Risk
+"Monterro, Luisa",61.25,50.0,0.0,45.63,6410.96,6797.96,28.44,6880.09,High Flight Risk
+"LeBlanc, Brandon  R",76.25,25.0,0.0,45.63,14104.11,14344.11,28.44,6880.09,Critical Risk
+"Clayton, Rick",61.25,50.0,0.0,45.63,7434.15,7434.15,28.44,6880.09,Critical Risk
+"Osturnka, Adeel",53.5,50.0,16.8,45.11,4103.01,4784.83,28.44,6880.09,High Flight Risk
+"Strong, Caitrin",75.0,25.0,0.0,45.0,13847.67,13907.67,28.44,6880.09,Critical Risk
+"Petingill, Shana",59.75,50.0,0.0,44.88,6667.4,7313.28,28.44,6880.09,Critical Risk
+"Rachael, Maggie",74.5,25.0,0.0,44.75,11539.73,12538.42,28.44,6880.09,Critical Risk
+"Fernandes, Nilson",86.0,0.0,6.4,44.28,4615.89,4675.89,28.44,6880.09,High Flight Risk
+"Monkfish, Erasumus",58.25,50.0,0.0,44.13,6923.84,6983.84,28.44,6880.09,Critical Risk
+"Faller, Megan",87.75,0.0,0.0,43.88,6923.84,6983.84,28.44,6880.09,Critical Risk
+"Martin, Sandra",86.75,0.0,0.0,43.38,14234.89,14442.21,28.44,6880.09,Critical Risk
+"Daniele, Ann",86.25,0.0,0.0,43.13,13873.32,13873.32,28.44,6880.09,Critical Risk
+"Valentin,Jackie",54.75,50.0,0.0,42.38,14104.11,14603.49,28.44,6880.09,Critical Risk
+"Goyal, Roxana",82.25,0.0,0.0,41.13,6154.52,6836.34,28.44,6880.09,High Flight Risk
+"Givens, Myriam",82.0,0.0,0.0,41.0,14104.11,14271.25,28.44,6880.09,Critical Risk
+"Gold, Shenice",76.5,0.0,11.6,40.57,4359.45,4359.45,28.44,6880.09,High Flight Risk
+"Mahoney, Lauren",61.25,25.0,11.6,40.45,4359.45,4877.64,28.44,6880.09,High Flight Risk
+"Bacong, Alejandro",79.0,0.0,0.0,39.5,11539.73,11539.73,28.44,6880.09,Critical Risk
+"Rogers, Ivan",49.0,50.0,0.0,39.5,10821.7,10988.84,28.44,6880.09,Critical Risk
+"Andreola, Colby",49.0,50.0,0.0,39.5,12206.47,12206.47,28.44,6880.09,Critical Risk
+"Engdahl, Jean",78.5,0.0,0.0,39.25,5449.32,6095.2,28.44,6880.09,High Flight Risk
+"Moran, Patrick",62.5,25.0,0.0,38.75,6667.4,7025.29,28.44,6880.09,Critical Risk
+"Garneau, Hamish",59.75,25.0,6.4,38.66,4615.89,4675.89,28.44,6880.09,High Flight Risk
+"Buccheri, Joseph",45.25,50.0,4.68,38.56,5641.64,5641.64,28.44,6880.09,High Flight Risk
+"Dougall, Eric",75.25,0.0,0.0,37.63,16412.05,16472.05,28.44,6880.09,Critical Risk
+"Sparks, Taylor",22.25,75.0,16.8,36.99,4103.01,4490.01,28.44,6880.09,High Flight Risk
+"Jacobi, Hannah",73.75,0.0,0.0,36.88,5385.21,5385.21,28.44,6880.09,High Flight Risk
+"Hubert, Robert",73.5,0.0,0.0,36.75,11539.73,12538.42,28.44,6880.09,Critical Risk
+"Le, Binh",72.75,0.0,0.0,36.38,12886.03,13884.72,28.44,6880.09,Critical Risk
+"Shepard, Anita",42.25,50.0,0.0,36.13,12052.6,12052.6,28.44,6880.09,Critical Risk
+"Simard, Kramer",42.0,50.0,0.0,36.0,7744.44,7744.44,28.44,6880.09,Critical Risk
+"Chan, Lin",56.75,25.0,0.0,35.88,5000.55,5000.55,28.44,6880.09,High Flight Risk
+"Kretschmer, John",40.5,50.0,0.0,35.25,5385.21,5552.35,28.44,6880.09,High Flight Risk
+"Khemmich, Bartholemew",70.25,0.0,0.0,35.13,14104.11,14271.25,28.44,6880.09,Critical Risk
+"Erilus, Angela",10.25,100.0,0.0,35.13,6154.52,6321.66,28.44,6880.09,High Flight Risk
+"Cisco, Anthony",69.75,0.0,0.0,34.88,10770.41,10770.41,28.44,6880.09,Critical Risk
+"Pitt, Brad",33.5,50.0,11.6,34.07,4359.45,4566.77,28.44,6880.09,High Flight Risk
+"Sander, Kamrin",37.25,50.0,0.0,33.63,5385.21,6067.03,28.44,6880.09,High Flight Risk
+"Stanley, David",21.75,75.0,0.0,33.38,13591.23,13831.23,28.44,6880.09,Critical Risk
+"Sutwell, Barbara",55.75,0.0,27.2,33.32,3590.14,3590.14,28.44,6880.09,High Flight Risk
+"Morway, Tanya",29.75,50.0,15.99,33.07,6923.84,7163.84,28.44,6880.09,Critical Risk
+"Trang, Mei",64.0,0.0,0.0,32.0,5641.64,5701.64,28.44,6880.09,High Flight Risk
+"Keatts, Kramer",48.25,25.0,1.2,31.87,4872.33,5259.33,28.44,6880.09,High Flight Risk
+"Liebig, Ketsia",33.5,50.0,0.0,31.75,14104.11,14699.53,28.44,6880.09,Critical Risk
+"Terry, Sharlene",32.75,50.0,0.0,31.38,14104.11,14344.11,28.44,6880.09,Critical Risk
+"Adinolfi, Wilson  K",62.25,0.0,0.0,31.13,5128.77,5774.65,28.44,6880.09,High Flight Risk
+"Gentry, Mildred",31.75,50.0,1.2,31.12,4872.33,4932.33,28.44,6880.09,High Flight Risk
+"Girifalco, Evelyn",40.25,25.0,16.8,30.99,4103.01,4163.01,28.44,6880.09,High Flight Risk
+"Ivey, Rose",25.25,50.0,16.8,30.99,4103.01,4163.01,28.44,6880.09,High Flight Risk
+"Smith, Sade",31.75,50.0,0.0,30.88,6282.74,6282.74,28.44,6880.09,High Flight Risk
+"Johnson, Noelle",31.25,50.0,0.0,30.63,10257.53,10257.53,28.44,6880.09,Critical Risk
+"Gosciminski, Phylicia",60.75,0.0,0.0,30.38,6923.84,6923.84,28.44,6880.09,Critical Risk
+"Dobrin, Denisa  S",55.25,0.0,12.9,30.21,4295.34,4535.34,28.44,6880.09,High Flight Risk
+"Szabo, Andrew",59.75,0.0,0.0,29.88,12309.04,12954.92,28.44,6880.09,Critical Risk
+"Sweetwater, Alex",29.0,50.0,0.0,29.5,6923.84,7131.16,28.44,6880.09,Critical Risk
+"Wolk, Hang  T",40.0,25.0,4.68,28.44,5641.64,6159.83,28.44,6880.09,Low Priority
+"Linden, Mathew",25.0,50.0,4.68,28.44,5641.64,5641.64,28.44,6880.09,Low Priority
+"Albert, Michael",26.75,50.0,0.0,28.38,13975.89,13975.89,28.44,6880.09,Manageable Risk
+"Mckenna, Sandy",26.75,50.0,0.0,28.38,6154.52,6394.52,28.44,6880.09,Low Priority
+"Nguyen, Lei-Ming",55.25,0.0,1.2,27.87,4872.33,4872.33,28.44,6880.09,Low Priority
+"Gonzales, Ricardo",25.5,50.0,0.0,27.75,14232.33,14472.33,28.44,6880.09,Manageable Risk
+"Wang, Charlie",39.5,25.0,0.0,27.25,13078.36,14077.05,28.44,6880.09,Manageable Risk
+"Bugali, Josephine",54.25,0.0,0.0,27.13,5128.77,5486.66,28.44,6880.09,Low Priority
+"Robinson, Elias",49.5,0.0,11.6,27.07,4359.45,4359.45,28.44,6880.09,Low Priority
+"Riordan, Michael",22.5,50.0,0.0,26.25,14104.11,14491.11,28.44,6880.09,Manageable Risk
+"Martins, Joseph",51.5,0.0,0.0,25.75,14360.55,14360.55,28.44,6880.09,Manageable Risk
+"Roup,Simon",51.0,0.0,0.0,25.5,15899.18,15959.18,28.44,6880.09,Manageable Risk
+"Smith, Jason",49.75,0.0,0.0,24.88,11796.16,12794.85,28.44,6880.09,Manageable Risk
+"Bramante, Elisa",49.5,0.0,0.0,24.75,15386.3,15885.68,28.44,6880.09,Manageable Risk
+"Walker, Roger",47.25,0.0,4.68,24.56,5641.64,5641.64,28.44,6880.09,Low Priority
+"Owad, Clinton",18.75,50.0,0.0,24.38,5641.64,6287.52,28.44,6880.09,Low Priority
+"Onque, Jasmine",18.0,50.0,0.0,24.0,14616.99,14784.13,28.44,6880.09,Manageable Risk
+"Soto, Julia",17.5,50.0,0.0,23.75,7049.49,7049.49,28.44,6880.09,Manageable Risk
+"Sullivan, Kissy",31.75,25.0,0.0,23.38,14104.11,14491.11,28.44,6880.09,Manageable Risk
+"Miller, Brannon",15.75,50.0,0.0,22.88,13591.23,13591.23,28.44,6880.09,Manageable Risk
+"Carey, Michael",14.25,50.0,0.0,22.13,5128.77,5774.65,28.44,6880.09,Low Priority
+"Burkett, Benjamin",43.75,0.0,0.0,21.88,6667.4,14457.4,28.44,6880.09,Manageable Risk
+"Bachiochi, Linda",13.5,50.0,0.0,21.75,5641.64,5999.53,28.44,6880.09,Low Priority
+"DiNocco, Lily",28.0,25.0,0.0,21.5,5641.64,5808.78,28.44,6880.09,Low Priority
+"Garcia, Raul",12.5,50.0,1.2,21.49,4872.33,4872.33,28.44,6880.09,Low Priority
+"Buck, Edward",42.25,0.0,0.0,21.13,14104.11,14104.11,28.44,6880.09,Manageable Risk
+"Leruth, Giovanni",11.75,50.0,0.0,20.87,14104.11,14699.53,28.44,6880.09,Manageable Risk
+"Davis, Daniel",26.0,25.0,0.0,20.5,6410.96,6929.15,28.44,6880.09,Manageable Risk
+"Fancett, Nicole",25.0,25.0,0.0,20.0,6154.52,6672.71,28.44,6880.09,Low Priority
+"Gray, Elijiah",9.25,50.0,0.0,19.63,13847.67,13847.67,28.44,6880.09,Manageable Risk
+"Gordon, David",0.0,50.0,22.0,19.4,3846.58,4492.46,28.44,6880.09,Low Priority
+"Darson, Jene'ya",0.0,50.0,22.0,19.4,3846.58,4233.58,28.44,6880.09,Low Priority
+"Woodson, Jason",23.25,25.0,0.0,19.12,6218.63,6218.63,28.44,6880.09,Low Priority
+"Dolan, Linda",22.25,25.0,0.0,18.62,9488.22,9488.22,28.44,6880.09,Manageable Risk
+"Billis, Helen",0.0,50.0,16.8,18.36,4103.01,4163.01,28.44,6880.09,Low Priority
+"Bernstein, Sean",0.0,50.0,16.8,18.36,4103.01,4103.01,28.44,6880.09,Low Priority
+"Heitzman, Anthony",20.75,25.0,1.2,18.12,4872.33,5378.97,28.44,6880.09,Low Priority
+"Singh, Nan",0.0,50.0,13.88,17.78,4246.62,4842.04,28.44,6880.09,Low Priority
+"Cierpiszewski, Caroline",35.5,0.0,0.0,17.75,5641.64,5808.78,28.44,6880.09,Low Priority
+"Digitale, Alfred",35.0,0.0,0.0,17.5,14360.55,14527.69,28.44,6880.09,Manageable Risk
+"Handschiegl, Joanne",20.0,25.0,0.0,17.5,6154.52,6154.52,28.44,6880.09,Low Priority
+"King, Janet",4.25,50.0,0.0,17.13,20515.07,20682.21,28.44,6880.09,Manageable Risk
+"Friedman, Gerry",33.75,0.0,0.0,16.88,14232.33,14590.22,28.44,6880.09,Manageable Risk
+"Murray, Thomas",18.0,25.0,0.0,16.5,9103.56,9461.45,28.44,6880.09,Manageable Risk
+"Roby, Lori",32.75,0.0,0.0,16.38,10142.14,10142.14,28.44,6880.09,Manageable Risk
+"Petrowsky, Thelma",32.25,0.0,0.0,16.13,10962.74,10962.74,28.44,6880.09,Manageable Risk
+"Foster-Baker, Amy",0.0,50.0,5.57,16.11,8962.52,9461.9,28.44,6880.09,Manageable Risk
+"Roper, Katie",1.5,50.0,0.0,15.75,14104.11,15102.8,28.44,6880.09,Manageable Risk
+"Foss, Jason",31.0,0.0,0.0,15.5,16668.49,16728.49,28.44,6880.09,Manageable Risk
+"Del Bosque, Keyla",30.25,0.0,0.0,15.13,14647.76,14887.76,28.44,6880.09,Manageable Risk
+"Butler, Webster  L",0.0,50.0,0.0,15.0,14104.11,14271.25,28.44,6880.09,Manageable Risk
+"Hankard, Earnest",0.0,50.0,0.0,15.0,6154.52,6672.71,28.44,6880.09,Low Priority
+"Lydon, Allison",0.0,50.0,0.0,15.0,5128.77,5724.19,28.44,6880.09,Low Priority
+"Chang, Donovan  E",30.0,0.0,0.0,15.0,5641.64,6159.83,28.44,6880.09,Low Priority
+"Navathe, Kurt",0.0,50.0,0.0,15.0,13398.9,14397.59,28.44,6880.09,Manageable Risk
+"South, Joe",0.0,50.0,0.0,15.0,13591.23,13591.23,28.44,6880.09,Manageable Risk
+"Zhou, Julia",0.0,50.0,0.0,15.0,8052.16,8052.16,28.44,6880.09,Manageable Risk
+"Shields, Seffi",4.75,25.0,22.0,14.28,3846.58,4364.77,28.44,6880.09,Low Priority
+"Steans, Tyrone",27.5,0.0,0.0,13.75,7436.71,7436.71,28.44,6880.09,Manageable Risk
+"Burke, Joelle",12.25,25.0,0.0,13.63,6410.96,6410.96,28.44,6880.09,Low Priority
+"Dunn, Amy",12.0,25.0,0.0,13.5,13078.36,13285.68,28.44,6880.09,Manageable Risk
+"Jeannite, Tayana",10.0,25.0,2.51,13.0,5769.86,6415.74,28.44,6880.09,Low Priority
+"Gonzalez, Maria",9.75,25.0,0.0,12.37,10001.1,10001.1,28.44,6880.09,Manageable Risk
+"Daneault, Lynn",9.5,25.0,0.0,12.25,13847.67,14014.81,28.44,6880.09,Manageable Risk
+"Lindsay, Leonara",9.0,25.0,0.0,12.0,6667.4,7025.29,28.44,6880.09,Manageable Risk
+"Chace, Beatrice",0.0,25.0,16.8,10.86,4103.01,4310.33,28.44,6880.09,Low Priority
+"Harrison, Kara",6.0,25.0,0.0,10.5,5128.77,5368.77,28.44,6880.09,Low Priority
+"Potts, Xana",20.0,0.0,0.0,10.0,14104.11,14699.53,28.44,6880.09,Manageable Risk
+"Tippett, Jeanette",19.75,0.0,0.0,9.88,6154.52,6541.52,28.44,6880.09,Low Priority
+"Rose, Ashley",0.0,25.0,11.6,9.82,4359.45,4954.87,28.44,6880.09,Low Priority
+"LaRotonda, William",0.0,25.0,6.96,8.89,5898.08,6493.5,28.44,6880.09,Low Priority
+"Moumanil, Maliki",17.75,0.0,0.0,8.88,7436.71,8118.53,28.44,6880.09,Manageable Risk
+"Boutwell, Bonalyn",0.0,25.0,5.57,8.61,8962.52,9320.41,28.44,6880.09,Manageable Risk
+"Sullivan, Timothy",16.0,0.0,1.2,8.24,4872.33,4872.33,28.44,6880.09,Low Priority
+"Carabbio, Judith",1.0,25.0,0.0,8.0,14360.55,14527.69,28.44,6880.09,Manageable Risk
+"Rivera, Haley",16.0,0.0,0.0,8.0,5641.64,5848.96,28.44,6880.09,Low Priority
+"Turpin, Jumil",0.0,25.0,0.0,7.5,12591.12,12591.12,28.44,6880.09,Manageable Risk
+"Athwal, Sam",0.0,25.0,0.0,7.5,5641.64,5641.64,28.44,6880.09,Low Priority
+"Maurice, Shana",0.0,25.0,0.0,7.5,5128.77,5628.15,28.44,6880.09,Low Priority
+"Medeiros, Jennifer",0.0,25.0,0.0,7.5,5128.77,5368.77,28.44,6880.09,Low Priority
+"Cornett, Lisa",6.75,0.0,18.1,6.99,4038.9,4425.9,28.44,6880.09,Low Priority
+"Lajiri,  Jyoti",13.5,0.0,0.0,6.75,14411.84,14411.84,28.44,6880.09,Manageable Risk
+"Horton, Jayne",13.0,0.0,0.0,6.5,8718.9,8718.9,28.44,6880.09,Manageable Risk
+"Champaigne, Brian",12.5,0.0,0.0,6.25,16283.84,16343.84,28.44,6880.09,Manageable Risk
+"Nowlan, Kristie",11.75,0.0,0.0,5.87,6767.41,6767.41,28.44,6880.09,Low Priority
+"Sewkumar, Nori",0.0,0.0,20.96,4.19,3897.86,4105.18,28.44,6880.09,Low Priority
+"Costa, Latia",5.75,0.0,0.0,2.88,14104.11,14603.49,28.44,6880.09,Manageable Risk
+"Langton, Enrico",0.0,0.0,11.6,2.32,4359.45,4877.64,28.44,6880.09,Low Priority
+"Spirea, Kelley",4.25,0.0,0.0,2.12,13334.79,13334.79,28.44,6880.09,Manageable Risk
+"Alagbe,Trina",4.0,0.0,0.0,2.0,5385.21,5772.21,28.44,6880.09,Low Priority
+"Jhaveri, Sneha",0.0,0.0,1.2,0.24,4872.33,5554.15,28.44,6880.09,Low Priority
+"Anderson, Linda",0.0,0.0,0.0,0.0,5898.08,6543.96,28.44,6880.09,Low Priority
+"Fidelia,  Libby",0.0,0.0,0.0,0.0,6154.52,6661.16,28.44,6880.09,Low Priority
+"Beatrice, Courtney",0.0,0.0,0.0,0.0,5641.64,5848.96,28.44,6880.09,Low Priority
+"Newman, Richard",0.0,0.0,0.0,0.0,5385.21,6067.03,28.44,6880.09,Low Priority
+"McCarthy, Brigit",0.0,0.0,0.0,0.0,6667.4,7185.59,28.44,6880.09,Manageable Risk
+"Carter, Michelle",0.0,0.0,0.0,0.0,14104.11,14491.11,28.44,6880.09,Manageable Risk
+"Ozark, Travis",0.0,0.0,0.0,0.0,14104.11,14699.53,28.44,6880.09,Manageable Risk
+"Nguyen, Dheepa",0.0,0.0,0.0,0.0,14104.11,14271.25,28.44,6880.09,Manageable Risk
