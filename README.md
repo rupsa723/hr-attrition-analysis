@@ -30,7 +30,7 @@ Two Production Technicians were paid $0.42/hour below the band minimum. Fixing t
 
 ---
 
-## Interactive ROI Calculator
+## Interactive ROI Calculator 
 
 The centerpiece is a **What-If retention model**. Move two sliders — intervention cost and target reduction — and every number recalculates live: programme cost, projected savings, employees retained, and net ROI against a break-even curve.
 
