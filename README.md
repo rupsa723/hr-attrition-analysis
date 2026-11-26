@@ -26,7 +26,7 @@ Of the 299 people in the data, **103 have left (34.45%)**, with exits dated 2010
 
 Two Production Technicians who left were paid $0.42/hour below the band minimum. Lifting them to the minimum would have cost **$874 a year each**, every year. Replacing each one cost about **$3,900** once, in recruiting and vacancy, or about **$14,800** if the new hire starts at the band midpoint. (The data doesn't show that pay caused their exits: one left for another position, the other for more money.)
 
-> **A note on rigour:** during dashboard QA I found a date-parsing bug. Two-digit birth years like 64 had been read as 2064, on 100 of the 310 records, giving impossible ages. A second check showed that measuring age on the 2019 snapshot made leavers look about 5 years older, so age is measured at hire. After both fixes the rates run 31–45% and don't rise or fall with age, and the two highest bands are the two smallest groups (42 and 34 people), so the project makes no age claim. [See the write-up in the notebook.](HR_Attrition_Analysis.ipynb)
+> **A note on rigour:** during dashboard QA I found a date-parsing bug. Two-digit birth years like 64 had been read as 2064, on 100 of the 310 records, giving impossible ages. A second check showed that measuring age on the 2019 snapshot made leavers look about 5 years older, so age is measured at hire. After both fixes the rates run 31–45% and don't rise or fall with age, and the two highest bands are the two smallest groups (42 and 34 people), so the project makes no age claim. [See the write-up in the notebook.](HR_Attrition_Analysis_python.pdf)
 
 ---
 
